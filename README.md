@@ -49,7 +49,12 @@
   </a>
 </p>
 
-
+#### **📲 Direct UPI Payment (BHIM UPI):**  
+📌 UPI ID: **9808413337@upi**  
+Scan & Pay using **any UPI app**:  
+<p align="center">
+  <img src="https://github.com/soft84ya/soft84ya/blob/main/bmc_qr.png" height="200" alt="UPI QR Code" />
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soft84ya&show_icons=true&locale=en&layout=compact" alt="soft84ya" /></p> 
