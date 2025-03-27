@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/soft84ya/soft84ya/blob/main/bg1.jpg) -->
-<h1 align="center">Hi 👋, I'm Abhishek Chaurasia (Soft84ya)</h1>
-<h3 align="center">Founder & Full-Stack Developer | Innovating the Web with Soft84ya</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
+<h3 align="center">Founder & CEO of Soft84ya | Web & Software Development Expert</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="soft84ya" width="400px" />
@@ -14,12 +14,21 @@
 
 ---
 
-### 🚀 About Me  
-🔹 **Founder of [Soft84ya](https://www.soft84ya.com)** – *A hub for innovative web solutions, software development, and digital transformation.*  
-🔹 **Full-Stack Developer** – Expert in Backend & Frontend technologies  
-🔹 **Languages & Tech Stack:** PHP, Laravel, JavaScript, React, Node.js, WordPress, Python, MySQL, Docker, and more  
-🔹 **Passionate about** creating scalable, high-performance web applications and business solutions  
-🔹 **Let's collaborate!** Reach me at 📧 **soft84ya@gmail.com**  
+### 🚀 About Soft84ya  
+🔹 **Soft84ya** is my **tech venture**, where we build **websites, applications, and software solutions** for businesses worldwide.  
+🔹 I lead a **team of talented developers** who specialize in **Laravel, WordPress, React, Node.js, Python, and more**.  
+🔹 We focus on **high-performance, scalable, and innovative solutions** to help businesses grow digitally.  
+🔹 **Looking for a tech partner?** Let’s collaborate! 📧 **soft84ya@gmail.com**  
+
+---
+
+### 🛠️ What We Do at Soft84ya  
+🔹 **Custom Web Development** (Laravel, PHP, Node.js, React, WordPress)  
+🔹 **E-commerce Solutions** (WooCommerce, Shopify, Custom Builds)  
+🔹 **Business Websites & CMS Development**  
+🔹 **Mobile-Friendly UI/UX Design**  
+🔹 **API Development & Integrations**  
+
 
 
 <h3 align="left">Connect with me:</h3>
