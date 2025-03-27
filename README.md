@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/soft84ya" target="blank"><img src="https://img.shields.io/twitter/follow/soft84ya?logo=twitter&style=for-the-badge" alt="soft84ya" /></a> </p>
 
-- 🌟 **Soft84ya** is a subsidiary of **OKLab**, focusing on website, software, and application development.
+- 🌟 **Soft84ya** is focusing on website, software, and application development.
 
 - 📚 We specialize in **Laravel, PHP, WordPress, Flutter, React, Node.js, and more.**
 
 - 💬 Ask us about **Web & App Development, CMS, API Integration, and Cloud Solutions.**
 
-- 📞 Contact us at **info@soft84ya.com**
+- 📞 Contact us at **soft84ya@gmail.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
