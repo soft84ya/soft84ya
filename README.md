@@ -1,17 +1,26 @@
 <!-- ![](https://github.com/soft84ya/soft84ya/blob/main/bg1.jpg) -->
-<h1 align="center">Hi 👋, I'm Soft84ya</h1>
-<h3 align="left">A passionate Laravel developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Chaurasia (Soft84ya)</h1>
+<h3 align="center">Founder & Full-Stack Developer | Innovating the Web with Soft84ya</h3>
 
-<p align="left"> <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="soft84ya" width="400px" /> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="soft84ya" width="400px" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/soft84ya" target="blank"><img src="https://img.shields.io/twitter/follow/soft84ya?logo=twitter&style=for-the-badge" alt="soft84ya" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/soft84ya" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/soft84ya?logo=twitter&style=for-the-badge" alt="soft84ya Twitter" />
+  </a>
+</p>
 
-🏢 Founder of Soft84ya – Innovating the web, one project at a time
+---
 
-🌐 Visit us: www.soft84ya.com
+### 🚀 About Me  
+🔹 **Founder of [Soft84ya](https://www.soft84ya.com)** – *A hub for innovative web solutions, software development, and digital transformation.*  
+🔹 **Full-Stack Developer** – Expert in Backend & Frontend technologies  
+🔹 **Languages & Tech Stack:** PHP, Laravel, JavaScript, React, Node.js, WordPress, Python, MySQL, Docker, and more  
+🔹 **Passionate about** creating scalable, high-performance web applications and business solutions  
+🔹 **Let's collaborate!** Reach me at 📧 **soft84ya@gmail.com**  
 
-📧 Reach me at soft84ya@gmail.com
-Soft84ya is my own tech venture, dedicated to web development, software solutions, and digital innovation. We specialize in custom web applications, business websites, e-commerce solutions, and more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
